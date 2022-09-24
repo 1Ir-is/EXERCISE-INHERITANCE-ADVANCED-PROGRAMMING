@@ -1,0 +1,15 @@
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\bin\Debug\net6.0\Online Radio Database.exe
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\bin\Debug\net6.0\Online Radio Database.deps.json
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\bin\Debug\net6.0\Online Radio Database.runtimeconfig.json
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\bin\Debug\net6.0\Online Radio Database.dll
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\bin\Debug\net6.0\Online Radio Database.pdb
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\obj\Debug\net6.0\Online Radio Database.csproj.AssemblyReference.cache
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\obj\Debug\net6.0\Online Radio Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\obj\Debug\net6.0\Online Radio Database.AssemblyInfoInputs.cache
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\obj\Debug\net6.0\Online Radio Database.AssemblyInfo.cs
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\obj\Debug\net6.0\Online Radio Database.csproj.CoreCompileInputs.cache
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\obj\Debug\net6.0\Online Radio Database.dll
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\obj\Debug\net6.0\refint\Online Radio Database.dll
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\obj\Debug\net6.0\Online Radio Database.pdb
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\obj\Debug\net6.0\Online Radio Database.genruntimeconfig.cache
+E:\Advanced Programming\Bai tap\EXERCISE INHERITANCE\Online Radio Database\obj\Debug\net6.0\ref\Online Radio Database.dll
